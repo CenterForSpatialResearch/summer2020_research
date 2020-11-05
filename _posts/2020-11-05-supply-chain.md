@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2020-01-01
+date:   2020-08-30
 image: "/summer2020_research/images/Supply_Chain.jpg"
 title:  "Supply Chain"
 author: "Nadine Fattaleh and Adam Vosburgh"
