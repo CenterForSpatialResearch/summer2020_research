@@ -11,6 +11,7 @@ author: "Spenser A. Krut"
 >“All information was accurate and all total deaths were reported.” 
 > Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
 <br><br>
+
 The beginning of 2021 saw New York State’s government facing backlash over its reporting of COVID-19 death counts. State legislators and Attorney General Letitia James accused the Cuomo administration of undercounting deaths of nursing home residents since the start of the pandemic, resulting in inaccurate portrayals of the administration’s handling of the virus in this arena.<sup>2</sup> Responding to demands for rescinding emergency order privileges and calls to step down from his position as governor, Andrew M. Cuomo dismissed accusations that his administration mishandled the situation to such a severe degree. Rather, he conceded that his administration’s actions “created a void by not producing enough public information fast enough.”<sup>3</sup>
 
 <img src="/summer2020_research/images/deathdata/02-timeline.jpg" alt="description of image" class="full-img"> FIGURE 02: Timeline of NYS nursing home scandal with New York City's death and probable death data.
@@ -45,7 +46,7 @@ So what is the process of verifying out-of-facility nursing home deaths? It invo
 <br><br>
 Prior to the pandemic, providing accurate counts of nursing home residents who died out-of-facility would have taken months to verify on account of when certain data becomes available. Due to the overwhelming number of patients during March and April and the addition of HERDS, this process took even longer. Regardless, the systems in place at hospitals and long-term care facilities are not intended for this kind of data collection and processing. For that, one would need to examine and collect the data points of the US Standard Certificate of Death. 
 
-![FIGURE 3: The US Standard Death Certifate, 2003 revision.](/summer2020_research/images/deathdata/06-certificate.jpg)
+<img src="/summer2020_research/images/deathdata/06-certificate.jpg" alt="description of image" class="full-img"> FIGURE 03: The US Standard Death Certifate, 2003 revision.
 <br><br>
 #### The US Death Certificate
 
