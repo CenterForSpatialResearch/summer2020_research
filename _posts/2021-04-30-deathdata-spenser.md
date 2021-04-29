@@ -7,15 +7,14 @@ author: "Spenser A. Krut"
 ---
 
 ![FIGURE 01: Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data.](/summer2020_research/images/deathdata/01-map.jpg)
-
-  
+<br><br>  
 >“All information was accurate and all total deaths were reported.” 
 > Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
-
+<br><br>
 The beginning of 2021 saw New York State’s government facing backlash over its reporting of COVID-19 death counts. State legislators and Attorney General Letitia James accused the Cuomo administration of undercounting deaths of nursing home residents since the start of the pandemic, resulting in inaccurate portrayals of the administration’s handling of the virus in this arena.<sup>2</sup> Responding to demands for rescinding emergency order privileges and calls to step down from his position as governor, Andrew M. Cuomo dismissed accusations that his administration mishandled the situation to such a severe degree. Rather, he conceded that his administration’s actions “created a void by not producing enough public information fast enough.”<sup>3</sup>
 
 <img src="/summer2020_research/images/deathdata/02-timeline.jpg" alt="description of image" class="full-img"> FIGURE 02: Timeline of NYS nursing home scandal with New York City's death and probable death data.
-
+<br><br>
 #### Lying by Omission
 
 According to reporting by The New York Times and ProPublica, the nursing home scandal’s inception occurred in June 2020.<sup>4</sup> Cuomo’s senior aides—Melissa DeRosa, Linda Lacewell, and Jim Malatras―received data collected from various long-term care facilities and hospitals for a forthcoming report on COVID-19 in nursing homes. The aides decided to omit the counts of nursing home deaths that occured out-of-facility because the numbers were alarming and unverified to a certain degree. The omission did not change the total deaths reported for the state on its web-based tracker nor did it appear to alter the findings of the report published on July 6, 2020 by the New York State Department of Health (NYSDOH).<sup>5</sup> 
@@ -29,7 +28,7 @@ However, the report set out to disprove that an early (and controversial) health
 Cuomo has asserted in multiple press briefings that the order was a restatement of CDC recommendations and that other states adopted similar measures at that time.<sup>8</sup> Regardless, the order was officially over-ridden in May as more was learned about transmission of the virus and hospitalizations decreased. Both the original and updated versions of “Factors Associated with Nursing Home Infections and Fatalities" determine that, due to the timing, readmissions of nursing home residents from hospitals could not have been “a driver” of nursing home deaths, at least not at the same scale as infected employees<sup>9</sup> The fact remains though, that information about the total number of nursing home resident deaths was known in come capacity by people in the administration and state health department and was intentionally covered up, kept out of public view.<sup>10</sup>
 
 The report and subsequent positive portrayals of New York State’s apparent handling of nursing homes did not shield the administration from further investigation.<sup>11</sup> A little over a month later, as out-of-facility nursing home data continued to be under-reported, the Department of Justice filed an inquiry into the data from New York and other democratic states that implemented similar nursing home admission policies early in the pandemic. This request delayed the administration’s response to state legislators who were also demanding a fuller account. By January 2021, the Office of the Attorney General of New York published its own partial data and analysis to discredit the totals that had been published by the state tracker since March 2020.<sup>12</sup> In February 2021, as a result of another request for the data in the form of a highly-publicized Freedom of Information request by a non-profit think tank, the state released the numbers of nursing home deaths it has confirmed as attributed to COVID-19 and residents from hospitals with the caveat that they are not finished with the verification process.<sup>13,14</sup>
-
+<br><br>
 #### New York State—a reckoning
 
 The nursing home scandal and public scrutiny of Cuomo continues to intensify as the governor faces increasing allegations of sexual harassment. But the spotlight on his administration illuminates more than Cuomo’s character traits or leadership practices— regulation and ease of health data reporting are not adequate for the 21st century. Expectations for real-time data, for accurate tracking, for analyses and findings dependent upon typically confidential, and therefore relational, databases are extreme given the condition and structure of current systems in place. 
@@ -43,17 +42,17 @@ An emergency data reporting system, Surge and Flex, put in place by Cuomo’s ad
 So what is the process of verifying out-of-facility nursing home deaths? It involves more database systems, lots of groundtruthing on behalf of the DOH, and waiting for data to be processed. Because HERDS does not collect information on where the patient comes from besides county zip code, the SPARCS data is needed to match initials to patient profiles. This is further complicated by the fact that HERDS data is collected from both hospitals and long-term care facilities. Nursing home staff, required to report on resident fatality regardless of where it occurred, are not informed in real-time whether their resident died of COVID-19 or not, nor do they have the resources to attest to whether the resident qualified as a COVID death. Due to the strict attestation requirements, the DOH has found inconsistencies in the data: some nursing home staff responsible for filling out the surveys take their best guess and input that the patient died from COVID when they were not certain this was the case.<sup>18,19</sup> In addition to calling facilities to verify patient identities, the DOH also cross-references the HERDS and SPARCS data with the federal system for nursing home reporting, Minimum Data Set (MDS), in order to de-duplicate patient entries. Further, to confirm if the deceased patient had a positive lab test prior to admission, a data analyst checks the ECLRS database used for testing reporting. 
 
 ![FIGURE 02: Databases required for NYS nursing home death verification](/summer2020_research/images/deathdata/05-table.jpg)
-
+<br><br>
 Prior to the pandemic, providing accurate counts of nursing home residents who died out-of-facility would have taken months to verify on account of when certain data becomes available. Due to the overwhelming number of patients during March and April and the addition of HERDS, this process took even longer. Regardless, the systems in place at hospitals and long-term care facilities are not intended for this kind of data collection and processing. For that, one would need to examine and collect the data points of the US Standard Certificate of Death. 
 
 ![FIGURE 3: The US Standard Death Certifate, 2003 revision.](/summer2020_research/images/deathdata/06-certificate.jpg)
-
+<br><br>
 #### The US Death Certificate
 
 The largest standardized and verified database for mortality in the US is the death data collected from certified death certificates. At a federal level, vital statistics collected and published—de-identified—by the Centers for Disease Control (CDC) and the National Center for Health Statistics (NCHS) are public information. This database takes weeks after deaths are recorded to update because death certification must occur prior to entry. During the COVID-19 pandemic, states and local governments have also borne the responsibility of reporting cases, hospitalizations, and deaths to their constituents as quickly as possible. Regional governments use this data to inform public health orders and augment federal guidance, hence the onslaught of color-coded phases of restrictions painted across the US over the last year. 
 
 ![FIGURE 4: Death certification process](/summer2020_research/images/deathdata/07-gif.gif)
-
+<br><br>
 An individual’s death certificate may change hands multiple times before being filed with the local government office. This is because portions of the form correspond to different practitioners for privacy and efficiency. At the hospital, Items 24-50 are completed by the *pronouncing physician* or *attending/certifying physician*. If the death did not occur at the hospital, a *medical examiner/coroner* is required to certify these items. This half completed form is then given to the funeral director or person in charge of the burial process to complete the personal information fields, Items 1-23.<sup>21</sup>
 
 As shown in Figure 11, once the form is filled out by the attending physician, funeral director, or other personnel, it enters the local records office. From the local health department, it makes its way to the city or county offices, the state registrar, and finally to the CDC and NCHS. In the case of the early days of the pandemic (when the nation was short on tests), there was a lot of confusion about what constituted a COVID-19 death when a test was unavailable. The CDC has continually updated the terms of this definition since March 2020 and the NCHS has been responsible for verifying that records that list COVID-19 on the certificate were following these directives before entering the statistic. 
@@ -63,13 +62,13 @@ COVID-19 is very rarely listed as the immediate cause of death. In Item 32, Part
 Part II of Item 32 lists all other important diseases or conditions that were present at the time of death and that  may have contributed to the death. A contributing versus underlying cause of death means that the condition was suspected to have increased a patient’s risk of dying, but it did not play a significant role in the chain of events that lead to their death.<sup>23</sup> These numbers are differentiated on the CDC’s website displaying the NCHS’s COVID-19 Mortality Data.<sup>24</sup>
 
 The purpose of the death certificate is to give the fullest picture of the patient’s relevant demographic information and death record, but even it doesn’t easily code whether or not a person is from a long-term care facility or not. It comes close; Item 7 asks for the place of residence, which would be filled out with the address of the long-term care facility the patient lived, but somebody has to process the data and match addresses to facilities in order to produce a count of out-of-facility deaths. 
-
+<br><br>
 #### Concluding Thoughts
 
 All of the difficulties of data-cleaning and relating are made exponentially harder with the additional stress of the pandemic. NYSDOH believes the number of errors, inconsistencies, or duplications in the data by hospitals, long-term care facilities, and others are significant enough to warrant months-long verification processes before release. One can understand if verifying the out-of-facility nursing home resident deaths is not the priority of the state government during the pandemic, so long as the total cumulative death counts is accurate. COVID data across the board is inaccurate because of its bigness and its necessary quickness. 
 
 Following these threads of the ways health data is collected at the state and federal level, some might believe it is time to redesign the surveys and forms and what types of data they retrieve. This report would suggest that perhaps the amount of data and how it's collected isn’t so much of the issue when systems are overwhelmed and people stretched too thin. A larger problem is the lack of a standardized format and content of data across the nation such that omissions as big as NYS’s nursing home cover up doesn’t go under the radar for too long. If every state was required to report the same types of data, perhaps data-cleaning and verifying processes would be more streamlined. 
-
+<br><br>
 
 #### Notes  
 
