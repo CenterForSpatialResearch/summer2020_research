@@ -10,7 +10,7 @@ author: "Spenser A. Krut"
 
   
 >“All information was accurate and all total deaths were reported.” 
->- Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
+> Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
 
 The beginning of 2021 saw New York State’s government facing backlash over its reporting of COVID-19 death counts. State legislators and Attorney General Letitia James accused the Cuomo administration of undercounting deaths of nursing home residents since the start of the pandemic, resulting in inaccurate portrayals of the administration’s handling of the virus in this arena.<sup>2</sup> Responding to demands for rescinding emergency order privileges and calls to step down from his position as governor, Andrew M. Cuomo dismissed accusations that his administration mishandled the situation to such a severe degree. Rather, he conceded that his administration’s actions “created a void by not producing enough public information fast enough.”<sup>3</sup>
 
