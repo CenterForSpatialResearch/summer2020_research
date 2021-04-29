@@ -64,7 +64,7 @@ Part II of Item 32 lists all other important diseases or conditions that were pr
 
 The purpose of the death certificate is to give the fullest picture of the patient’s relevant demographic information and death record, but even it doesn’t easily code whether or not a person is from a long-term care facility or not. It comes close; Item 7 asks for the place of residence, which would be filled out with the address of the long-term care facility the patient lived, but somebody has to process the data and match addresses to facilities in order to produce a count of out-of-facility deaths. 
 
-####Concluding Thoughts
+#### Concluding Thoughts
 
 All of the difficulties of data-cleaning and relating are made exponentially harder with the additional stress of the pandemic. NYSDOH believes the number of errors, inconsistencies, or duplications in the data by hospitals, long-term care facilities, and others are significant enough to warrant months-long verification processes before release. One can understand if verifying the out-of-facility nursing home resident deaths is not the priority of the state government during the pandemic, so long as the total cumulative death counts is accurate. COVID data across the board is inaccurate because of its bigness and its necessary quickness. 
 
