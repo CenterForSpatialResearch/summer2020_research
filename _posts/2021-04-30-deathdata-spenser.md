@@ -2,14 +2,14 @@
 layout: post
 date:   2021-04-30
 image: "/summer2020_research/images/project_spenser_sp21.jpg"
-title: "Death Data: A closer look at NYS health data reporting and the US death certificate in light of COVID-19"
+title: "**Death Data:** A closer look at NYS health data reporting and the US death certificate in light of COVID-19"
 author: "Spenser A. Krut"
 ---
 
 ![Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data.](/summer2020_research/images/deathdata/01-map.jpg)
   *Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data. Source: NYSDOH COVID-19 Tracker. [Link](https://www.health.ny.gov/statistics/diseases/covid-19/fatalities_nh.pdf)*
 <br><br>  
->“All information was accurate and all total deaths were reported.” 
+>“All information was accurate and all total deaths were reported.” <br>
 > Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
 <br><br>
 
@@ -18,7 +18,7 @@ The beginning of 2021 saw New York State’s government facing backlash over its
 
 <img src="/summer2020_research/images/deathdata/02-timeline.jpg" alt="description of image" class="full-img"> *Timeline of NYS nursing home scandal with New York City's death and probable death data. Probable deaths include those with cause of death reported as "COVID-19" or equivalent, but there is no positive laboratory test.*
 <br><br>
-#### Lying by Omission
+#### **Lying by Omission**
 
 According to reporting by The New York Times and ProPublica, the nursing home scandal’s inception occurred in June 2020.<sup>4</sup> Cuomo’s senior aides—Melissa DeRosa, Linda Lacewell, and Jim Malatras―received data collected from various long-term care facilities and hospitals for a forthcoming report on COVID-19 in nursing homes. The aides decided to omit the counts of nursing home deaths that occured out-of-facility because the numbers were alarming and unverified to a certain degree. The omission did not change the total deaths reported for the state on its web-based tracker nor did it appear to alter the findings of the report published on July 6, 2020 by the New York State Department of Health (NYSDOH).<sup>5</sup> 
 
@@ -32,7 +32,7 @@ Cuomo has asserted in multiple press briefings that the order was a restatement 
 
 The report and subsequent positive portrayals of New York State’s apparent handling of nursing homes did not shield the administration from further investigation.<sup>11</sup> A little over a month later, as out-of-facility nursing home data continued to be under-reported, the Department of Justice filed an inquiry into the data from New York and other democratic states that implemented similar nursing home admission policies early in the pandemic. This request delayed the administration’s response to state legislators who were also demanding a fuller account. By January 2021, the Office of the Attorney General of New York published its own partial data and analysis to discredit the totals that had been published by the state tracker since March 2020.<sup>12</sup> In February 2021, as a result of another request for the data in the form of a highly-publicized Freedom of Information request by a non-profit think tank, the state released the numbers of nursing home deaths it has confirmed as attributed to COVID-19 and residents from hospitals with the caveat that they are not finished with the verification process.<sup>13,14</sup>
 <br><br>
-#### New York State—a reckoning
+#### **New York State—a reckoning**
 
 The nursing home scandal and public scrutiny of Cuomo continues to intensify as the governor faces increasing allegations of sexual harassment. But the spotlight on his administration illuminates more than Cuomo’s character traits or leadership practices— regulation and ease of health data reporting are not adequate for the 21st century. Expectations for real-time data, for accurate tracking, for analyses and findings dependent upon typically confidential, and therefore relational, databases are extreme given the condition and structure of current systems in place. 
 
@@ -51,11 +51,11 @@ Prior to the pandemic, providing accurate counts of nursing home residents who d
 
 <img src="/summer2020_research/images/deathdata/06-certificate.jpg" alt="description of image" class="full-img">   *The US Standard Death Certifate, 2003 revision.*
 <br><br>
-#### The US Death Certificate
+#### **The US Death Certificate**
 
 The largest standardized and verified database for mortality in the US is the death data collected from certified death certificates. At a federal level, vital statistics collected and published—de-identified—by the Centers for Disease Control (CDC) and the National Center for Health Statistics (NCHS) are public information. This database takes weeks after deaths are recorded to update because death certification must occur prior to entry. During the COVID-19 pandemic, states and local governments have also borne the responsibility of reporting cases, hospitalizations, and deaths to their constituents as quickly as possible. Regional governments use this data to inform public health orders and augment federal guidance, hence the onslaught of color-coded phases of restrictions painted across the US over the last year. 
 <br><br>
-![Death certification process](/summer2020_research/images/deathdata/07-gif.gif)
+![Death certification process.](/summer2020_research/images/deathdata/07-gif.gif)
 *Death certification process.*
 <br><br>
 An individual’s death certificate may change hands multiple times before being filed with the local government office. This is because portions of the form correspond to different practitioners for privacy and efficiency. At the hospital, Items 24-50 are completed by the *pronouncing physician* or *attending/certifying physician*. If the death did not occur at the hospital, a *medical examiner/coroner* is required to certify these items. This half completed form is then given to the funeral director or person in charge of the burial process to complete the personal information fields, Items 1-23.<sup>21</sup>
@@ -68,14 +68,14 @@ Part II of Item 32 lists all other important diseases or conditions that were pr
 
 The purpose of the death certificate is to give the fullest picture of the patient’s relevant demographic information and death record, but even it doesn’t easily code whether or not a person is from a long-term care facility or not. It comes close; Item 7 asks for the place of residence, which would be filled out with the address of the long-term care facility the patient lived, but somebody has to process the data and match addresses to facilities in order to produce a count of out-of-facility deaths. 
 <br><br>
-#### Concluding Thoughts
+#### **Concluding Thoughts**
 
 All of the difficulties of data-cleaning and relating are made exponentially harder with the additional stress of the pandemic. NYSDOH believes the number of errors, inconsistencies, or duplications in the data by hospitals, long-term care facilities, and others are significant enough to warrant months-long verification processes before release. One can understand if verifying the out-of-facility nursing home resident deaths is not the priority of the state government during the pandemic, so long as the total cumulative death counts is accurate. COVID data across the board is inaccurate because of its bigness and its necessary quickness. 
 
 Following these threads of the ways health data is collected at the state and federal level, some might believe it is time to redesign the surveys and forms and what types of data they retrieve. This report would suggest that perhaps the amount of data and how it's collected isn’t so much of the issue when systems are overwhelmed and people stretched too thin. A larger problem is the lack of a standardized format and content of data across the nation such that omissions as big as NYS’s nursing home cover up doesn’t go under the radar for too long. If every state was required to report the same types of data, perhaps data-cleaning and verifying processes would be more streamlined. 
 <br><br>
 
-#### Notes  
+#### **Notes**  
 
 1. Cuomo press briefing, February 19, 2021 [Source](https://www.youtube.com/watch?v=mG63aqAj-pQ)
 2. Cuomo Accepts Some Blame in Nursing Home Scandal... *New York Times.* (February 15, 2021). [Source](https://www.nytimes.com/2021/02/15/nyregion/cuomo-nursing-homes.html)
