@@ -6,15 +6,16 @@ title: "Death Data: A closer look at NYS health data reporting and the US death 
 author: "Spenser A. Krut"
 ---
 
-![FIGURE 01: Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data.](/summer2020_research/images/deathdata/01-map.jpg)
+![Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data.](/summer2020_research/images/deathdata/01-map.jpg)
+*Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data. Source: NYSDOH COVID-19 Tracker. [Link](https://www.health.ny.gov/statistics/diseases/covid-19/fatalities_nh.pdf)*
 <br><br>  
 >“All information was accurate and all total deaths were reported.” 
 > Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
 <br><br>
 
 The beginning of 2021 saw New York State’s government facing backlash over its reporting of COVID-19 death counts. State legislators and Attorney General Letitia James accused the Cuomo administration of undercounting deaths of nursing home residents since the start of the pandemic, resulting in inaccurate portrayals of the administration’s handling of the virus in this arena.<sup>2</sup> Responding to demands for rescinding emergency order privileges and calls to step down from his position as governor, Andrew M. Cuomo dismissed accusations that his administration mishandled the situation to such a severe degree. Rather, he conceded that his administration’s actions “created a void by not producing enough public information fast enough.”<sup>3</sup>
-
-<img src="/summer2020_research/images/deathdata/02-timeline.jpg" alt="description of image" class="full-img"> FIGURE 02: Timeline of NYS nursing home scandal with New York City's death and probable death data.
+<br><br>
+<img src="/summer2020_research/images/deathdata/02-timeline.jpg" alt="description of image" class="full-img"> *Timeline of NYS nursing home scandal with New York City's death and probable death data.*
 <br><br>
 #### Lying by Omission
 
@@ -41,18 +42,20 @@ Before COVID-19, the primary health reporting across the hospitals was the State
 An emergency data reporting system, Surge and Flex, put in place by Cuomo’s administration early on focuses on tracking the admissions, fatalities, PPE, and staffing of over 200 hospitals across the state. In addition to speeding up the data collection process by the SPARCS system, the Surge and Flex Regulation initiates a real-time system called the Health Electronic Response Data System (HERDS).<sup>17</sup> This emergency response measure requires hospitals, nursing homes, and other long-term care facilities to report admission and fatality surveys  of their patients in addition to the capacity and status of their facilities. In order to provide adequate patient privacy, only initials are collected from each patient entered into this system. Facilities were directed to attest under penalty of perjury on a daily basis. This process continues today, having been in place now for over a year. 
 
 So what is the process of verifying out-of-facility nursing home deaths? It involves more database systems, lots of groundtruthing on behalf of the DOH, and waiting for data to be processed. Because HERDS does not collect information on where the patient comes from besides county zip code, the SPARCS data is needed to match initials to patient profiles. This is further complicated by the fact that HERDS data is collected from both hospitals and long-term care facilities. Nursing home staff, required to report on resident fatality regardless of where it occurred, are not informed in real-time whether their resident died of COVID-19 or not, nor do they have the resources to attest to whether the resident qualified as a COVID death. Due to the strict attestation requirements, the DOH has found inconsistencies in the data: some nursing home staff responsible for filling out the surveys take their best guess and input that the patient died from COVID when they were not certain this was the case.<sup>18,19</sup> In addition to calling facilities to verify patient identities, the DOH also cross-references the HERDS and SPARCS data with the federal system for nursing home reporting, Minimum Data Set (MDS), in order to de-duplicate patient entries. Further, to confirm if the deceased patient had a positive lab test prior to admission, a data analyst checks the ECLRS database used for testing reporting. 
-
-![FIGURE 02: Databases required for NYS nursing home death verification](/summer2020_research/images/deathdata/05-chart.jpg)
+<br><br>
+![Databases required for NYS nursing home death verification](/summer2020_research/images/deathdata/05-chart.jpg)
+*Databases required for NYS nursing home death verification*
 <br><br>
 Prior to the pandemic, providing accurate counts of nursing home residents who died out-of-facility would have taken months to verify on account of when certain data becomes available. Due to the overwhelming number of patients during March and April and the addition of HERDS, this process took even longer. Regardless, the systems in place at hospitals and long-term care facilities are not intended for this kind of data collection and processing. For that, one would need to examine and collect the data points of the US Standard Certificate of Death. 
 
-<img src="/summer2020_research/images/deathdata/06-certificate.jpg" alt="description of image" class="full-img"> FIGURE 03: The US Standard Death Certifate, 2003 revision.
+<img src="/summer2020_research/images/deathdata/06-certificate.jpg" alt="description of image" class="full-img"> The US Standard Death Certifate, 2003 revision.
 <br><br>
 #### The US Death Certificate
 
 The largest standardized and verified database for mortality in the US is the death data collected from certified death certificates. At a federal level, vital statistics collected and published—de-identified—by the Centers for Disease Control (CDC) and the National Center for Health Statistics (NCHS) are public information. This database takes weeks after deaths are recorded to update because death certification must occur prior to entry. During the COVID-19 pandemic, states and local governments have also borne the responsibility of reporting cases, hospitalizations, and deaths to their constituents as quickly as possible. Regional governments use this data to inform public health orders and augment federal guidance, hence the onslaught of color-coded phases of restrictions painted across the US over the last year. 
-
-![FIGURE 4: Death certification process](/summer2020_research/images/deathdata/07-gif.gif)
+<br><br>
+![Death certification process](/summer2020_research/images/deathdata/07-gif.gif)
+*Death certification process*
 <br><br>
 An individual’s death certificate may change hands multiple times before being filed with the local government office. This is because portions of the form correspond to different practitioners for privacy and efficiency. At the hospital, Items 24-50 are completed by the *pronouncing physician* or *attending/certifying physician*. If the death did not occur at the hospital, a *medical examiner/coroner* is required to certify these items. This half completed form is then given to the funeral director or person in charge of the burial process to complete the personal information fields, Items 1-23.<sup>21</sup>
 
