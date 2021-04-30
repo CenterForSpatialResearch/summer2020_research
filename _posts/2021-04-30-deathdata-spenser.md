@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-04-30
-image: "/summer2020_research/images/..."
+image: "/summer2020_research/images/project_spenser_sp21.jpg"
 title: "Death Data: A closer look at NYS health data reporting and the US death certificate in light of COVID-19"
 author: "Spenser A. Krut"
 ---
@@ -73,29 +73,29 @@ Following these threads of the ways health data is collected at the state and fe
 
 #### Notes  
 
-1. [Source](https://www.youtube.com/watch?v=mG63aqAj-pQ)
-2. [Source](https://www.nytimes.com/2021/02/15/nyregion/cuomo-nursing-homes.html)
-3. [Source](https://www.youtube.com/watch?v=mG63aqAj-pQ)
-4. [Source](https://www.nytimes.com/article/andrew-cuomo-nursing-home-deaths.html)
-5. [Source](https://web.archive.org/web/20200709003908/https://health.ny.gov/press/releases/2020/docs/nh_factors_report.pdf)
+1. Cuomo press briefing, February 19, 2021 [Source](https://www.youtube.com/watch?v=mG63aqAj-pQ)
+2. Cuomo Accepts Some Blame in Nursing Home Scandal... *New York Times.* (February 15, 2021). [Source](https://www.nytimes.com/2021/02/15/nyregion/cuomo-nursing-homes.html)
+3. Cuomo press briefing, February 19, 2021 [Source](https://www.youtube.com/watch?v=mG63aqAj-pQ)
+4. Cuomo Accepts Some Blame in Nursing Home Scandal... *New York Times.* (February 15, 2021). [Source](https://www.nytimes.com/article/andrew-cuomo-nursing-home-deaths.html)
+5. Archived NYSDOH report. [Source](https://web.archive.org/web/20200709003908/https://health.ny.gov/press/releases/2020/docs/nh_factors_report.pdf)
 6. Since the public release of the total, verified nursing home resident fatalities, reports from other institutions have analyzed the relation between deaths, staff infections, and hospitalized-patient readmittance timelines. [Example](https://www.empirecenter.org/publications/covid-positive-admissions-higher-death-rates/) 
 7. 03-25 health order
 8. The CDC’s guidance requires that the nursing home must accept admissions and readmissions only if they have the resources to follow isolation and protection protocols. 
 9. Critical to this reasoning is the definition of a re-admission: “Admissions into nursing homes are patients who went to the hospital from a nursing home, were treated and returned back to their nursing home. By definition these patients could
 not have been responsible for introducing COVID into their nursing home, as they had COVID prior to going to the hospital for treatment and before being readmitted.” (p. 20)
 10. If not entirely “known” in the sense of verified totals, the DOH did know the necessary steps to acquire those numbers and verify the totals.
-11. [Source](http://web.archive.org/web/20200627155039/https://www.nytimes.com/interactive/2020/us/coronavirus-nursing-homes.html)
-12. [Source](https://ag.ny.gov/press-release/2021/attorney-general-james-releases-report-nursing-homes-response-covid-19)
-13. [Source](https://www.empirecenter.org/wp-content/uploads/2020/09/Aug.-3-FOIL-request-re-nursing-home-deaths.pdf)
-14. [Source](https://www.propublica.org/article/nursing-homes-cuomo)
+11. *New York Times* interactive page on nursing home deaths data from June 27, 2020. [Source](http://web.archive.org/web/20200627155039/https://www.nytimes.com/interactive/2020/us/coronavirus-nursing-homes.html)
+12. Press Release for AG Letitia James' nursing home report (January 28, 2021). [Source](https://ag.ny.gov/press-release/2021/attorney-general-james-releases-report-nursing-homes-response-covid-19)
+13. FOIL Request from the Empire Center. [Source](https://www.empirecenter.org/wp-content/uploads/2020/09/Aug.-3-FOIL-request-re-nursing-home-deaths.pdf)
+14. Cuomo Still Underreporting the Total Count of COVID Nursing Home Deaths. *ProPublica* (February 12, 2021). [Source](https://www.propublica.org/article/nursing-homes-cuomo)
 15. DeRosa admitted to Cuomo’s administration being overwhelmed and concerned by the DOJ’s request. They interpreted the action as politically-motivated and were compelled to withhold the data, essentially covering up evidence that was unaudited and damning. [Source](https://www.governor.ny.gov/news/statement-secretary-governor-melissa-derosa-0) 
 16. Full transcript: [Source](https://www.governor.ny.gov/news/rush-transcript-february-10th-zoom-conference-call-between-members-governor-cuomos) 
 17. According to lawmakers, HERDS was developed post-9/11 to monitor hospital capacity and aid in families searching for loved ones after an emergency. [Source](https://www.news10.com/news/coronavirus/news10-investigates-how-nys-department-of-health-receives-data-on-nursing-home-covid-cases-deaths/) 
 18. The CDC has multiple criteria for what qualifies as a COVID death including (1) COVID listed as a comorbidity on the death certificate; (2) when a test was not administered, a medical examiner’s best judgement, and (3) verified close contact with a COVID-positive individual prior to death in addition to displaying symptoms. [Source](https://wwwn.cdc.gov/nndss/conditions/coronavirus-disease-2019-covid-19/case-definition/2020/) 
 19. The DOH also claims this mis-reporting issue is a problem of language: nursing home staff filling out the survey don’t recognize that “presumed” or “probable” are specific medical terms indicating that certain criteria for attestation were met when they were not. [Source](https://www.governor.ny.gov/news/rush-transcript-february-10th-zoom-conference-call-between-members-governor-cuomos)
-20. [Source](https://www.cdc.gov/nchs/nvss/vsrr/covid19/tech_notes.htm)
+20. Technical Notes webpage from CDC's Provisional Death Counts for Coronavirus Disease (COVID-19). [Source](https://www.cdc.gov/nchs/nvss/vsrr/covid19/tech_notes.htm)
 21. *Physician’s Handbook on Medical Certification of Death*, Department of Health and Human Services (2003)
-22. [Source](https://www.cdc.gov/nchs/data/nvss/vsrg/vsrg03-508.pdf)
-23. [Source](https://www.reuters.com/article/uk-factcheck-94-percent-covid-among-caus-idUSKBN25U2IO)
+22. Vital Statistics Reporting Guidance published by the NVSS (April 2020). [Source](https://www.cdc.gov/nchs/data/nvss/vsrg/vsrg03-508.pdf)
+23. Fact check: 94% of individuals with additional causes of death still had COVID-19. *Reuters* (September 3, 2020). [Source](https://www.reuters.com/article/uk-factcheck-94-percent-covid-among-caus-idUSKBN25U2IO)
 24. [Source](https://www.cdc.gov/nchs/covid19/mortality-overview.htm)
  
