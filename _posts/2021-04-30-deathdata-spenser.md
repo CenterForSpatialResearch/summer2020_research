@@ -2,15 +2,15 @@
 layout: post
 date:   2021-04-30
 image: "/summer2020_research/images/project_spenser_sp21.jpg"
-title: "**Death Data:** A closer look at NYS health data reporting and the US death certificate in light of COVID-19"
+title: "Death Data: A closer look at NYS health data reporting and the US death certificate in light of COVID-19"
 author: "Spenser A. Krut"
 ---
 
 ![Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data.](/summer2020_research/images/deathdata/01-map.jpg)
   *Percent Increase of Nursing Home Resident Fatalities per County with addition of out-of-facility data. Source: NYSDOH COVID-19 Tracker. [Link](https://www.health.ny.gov/statistics/diseases/covid-19/fatalities_nh.pdf)*
 <br><br>  
->“All information was accurate and all total deaths were reported.” <br>
-> Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
+>“All information was accurate and all total deaths were reported.” 
+>>Andrew M. Cuomo, February 19, 2021.<sup>1</sup>
 <br><br>
 
 The beginning of 2021 saw New York State’s government facing backlash over its reporting of COVID-19 death counts. State legislators and Attorney General Letitia James accused the Cuomo administration of undercounting deaths of nursing home residents since the start of the pandemic, resulting in inaccurate portrayals of the administration’s handling of the virus in this arena.<sup>2</sup> Responding to demands for rescinding emergency order privileges and calls to step down from his position as governor, Andrew M. Cuomo dismissed accusations that his administration mishandled the situation to such a severe degree. Rather, he conceded that his administration’s actions “created a void by not producing enough public information fast enough.”<sup>3</sup>
@@ -26,7 +26,7 @@ The intention of their report, “Factors Associated with Nursing Home Infection
 
 However, the report set out to disprove that an early (and controversial) health order issued by NYS about re-admission of residents caused further harm to nursing home staff and residents.<sup>6</sup> Though no longer accessible on the government’s website, taken from archived copies, the order reads as follows and was first issued on March 25, 2020: 
 
->“No resident shall be denied re-admission or admission to the NH [nursing home] solely based on a confirmed or suspected diagnosis of COVID-19. NHs are prohibited from requiring a hospitalized resident who is determined medically stable to be tested for COVID-19 prior to admission or readmission.”<sup>7</sup>
+>>“No resident shall be denied re-admission or admission to the NH [nursing home] solely based on a confirmed or suspected diagnosis of COVID-19. NHs are prohibited from requiring a hospitalized resident who is determined medically stable to be tested for COVID-19 prior to admission or readmission.”<sup>7</sup>
 
 Cuomo has asserted in multiple press briefings that the order was a restatement of CDC recommendations and that other states adopted similar measures at that time.<sup>8</sup> Regardless, the order was officially over-ridden in May as more was learned about transmission of the virus and hospitalizations decreased. Both the original and updated versions of “Factors Associated with Nursing Home Infections and Fatalities" determine that, due to the timing, readmissions of nursing home residents from hospitals could not have been “a driver” of nursing home deaths, at least not at the same scale as infected employees<sup>9</sup> The fact remains though, that information about the total number of nursing home resident deaths was known in come capacity by people in the administration and state health department and was intentionally covered up, kept out of public view.<sup>10</sup>
 
